@@ -50,7 +50,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(project-image/download\ \(1\).jpeg) no-repeat;
+    background: url(project-image/background.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
